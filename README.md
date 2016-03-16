@@ -3,7 +3,7 @@
 
 ## Synposis
 
-Synthetic Libya Case contains a flow simulation deck, geological model and a structural grid for a synthetic analog case to a Libyan onshore oil field. This repository contains all necessary files for flow simulation using 3DSL software of Streamsim(R).
+Synthetic Libya Case contains a flow simulation deck, geological model and a structural grid for a synthetic analog case to a Libyan onshore oil field. This repository contains all necessary files for flow simulation using 3DSL&reg; software of Streamsim&trade;.
 
 
 ## Contents
