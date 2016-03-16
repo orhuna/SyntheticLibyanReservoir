@@ -12,11 +12,4 @@ Synthetic Libya Case contains a flow simulation deck, geological model and a str
 
 [Porosity and Permeability File](/IncludeFiles/include/depo.GRDECL) : This file contains the depositional model for the case 
 
-
-
-File descriptions for the "Synthetic Libya Case" is as follows:
-
-
-BaseCase.dat : StreamSim simulation deck
-
-depo.GRDECL : Porosity and permeability
+[3D Structural Grid](IncludeFiles/include/geometry_large.INC) : This is the 
