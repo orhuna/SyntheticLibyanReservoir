@@ -16,3 +16,7 @@ Synthetic Libya Case contains a flow simulation deck, geological model and a str
 
 [Fault Model](IncludeFiles/include/faults_final.INC) : Representation of structural model within the simulation deck
 
+## Components of the Synthethic Case
+
+### Structural Model 
+
