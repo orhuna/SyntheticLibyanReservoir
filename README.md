@@ -20,3 +20,4 @@ Synthetic Libya Case contains a flow simulation deck, geological model and a str
 
 ### Structural Model 
 
+Syth
