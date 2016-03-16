@@ -8,12 +8,9 @@ Synthetic Libya Case contains a flow simulation deck, geological model and a str
 
 ## Contents
 
-[Main 3DSL Simulation Deck](/DataFiles/BaseCase.dat) : This file is the main inp
+[Main 3DSL Simulation Deck](/DataFiles/BaseCase.dat) : This file is the main input for flow simulation.
 
-ut for flow simulation.
-
-
-[Porosity and Permeability File](/IncludeFiles/include/depo.GRDECL)
+[Porosity and Permeability File](/IncludeFiles/include/depo.GRDECL) : This file contains the depositional model for the case 
 
 
 
