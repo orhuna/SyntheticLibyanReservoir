@@ -24,3 +24,6 @@ Structural Model consists of 4 faults and 2 deformable horizons. In this case, a
 
 ![alt text](/common/faults.png " Fault Model")
 
+Brittly deformed horizons are given is below:
+
+![alt text](/common/horizons.png " Horizon Model")
