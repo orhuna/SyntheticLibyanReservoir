@@ -22,5 +22,5 @@ Synthetic Libyan Reservoir (SLR) contains a flow simulation deck, geological mod
 
 Structural Model consists of 4 faults and 2 deformable horizons. In this case, a brittle deformation is modeled with no smearing. Structural setting in this case consists of 4 normal faults given below:
 
-![alt text](/common/faults.png "Logo Title Text 1")
+![alt text](https://github.com/orhuna/SyntheticLibyanReservoir/upload/common/faults.png "Logo Title Text 1")
 
