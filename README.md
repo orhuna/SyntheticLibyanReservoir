@@ -1,9 +1,9 @@
-# SyntheticLibyanReservoir
+# Synthetic Libyan Reservoir (SLR) Case
 
 
 ## Synposis
 
-Synthetic Libya Case contains a flow simulation deck, geological model and a structural grid for a synthetic analog case to a Libyan onshore oil field. This repository contains all necessary files for flow simulation using 3DSL&reg; software of Streamsim&trade;.
+Synthetic Libyan Reservoir (SLR) contains a flow simulation deck, geological model and a structural grid for a synthetic analog case to a Libyan onshore oil field. This repository contains all necessary files for flow simulation using 3DSL&reg; software of Streamsim&trade;.
 
 
 ## Contents
@@ -20,4 +20,4 @@ Synthetic Libya Case contains a flow simulation deck, geological model and a str
 
 ### Structural Model 
 
-Syth
+Structural Model consists of 4 faults and 2 deformable horizons. In this case, a brittle deformation is modeled with no clay 
