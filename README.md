@@ -28,14 +28,13 @@ Brittly deformed horizons are given is below:
 
 ![alt text](/common/horizons.png " Horizon Model")
 
-Resulting geologic model for the structural model is given below:
+### Stratigraphic Model 
 
-Brittly deformed horizons are given is below:
+Resulting geologic model for the structural model is given below:
 
 ![alt text](/common/geo_model.png " Horizon Model")
 
+### Flow Simulation Grid 
 Finally the flow model from this geologic model is extracted as below:
-
-Brittly deformed horizons are given is below:
 
 ![alt text](/common/flow_model.png " Horizon Model")
