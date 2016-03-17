@@ -27,3 +27,15 @@ Structural Model consists of 4 faults and 2 deformable horizons. In this case, a
 Brittly deformed horizons are given is below:
 
 ![alt text](/common/horizons.png " Horizon Model")
+
+Resulting geologic model for the structural model is given below:
+
+Brittly deformed horizons are given is below:
+
+![alt text](/common/geo_model.png " Horizon Model")
+
+Finally the flow model from this geologic model is extracted as below:
+
+Brittly deformed horizons are given is below:
+
+![alt text](/common/flow_model.png " Horizon Model")
