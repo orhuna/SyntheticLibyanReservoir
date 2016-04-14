@@ -1,6 +1,6 @@
 # Synthetic Libyan Reservoir (SLR) Case
 
-Structural Framework, Geomodels and FLow Simulation Case : Orhun Aydin, 2015 
+Structural Framework, Geomodels and Flow Simulation Case : Orhun Aydin, 2015 
 
 ## Synposis
 
